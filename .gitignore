@@ -2,7 +2,12 @@
 *.jar
 
 .classpath
+.project
+.settings/
+
+.idea/
+ironman.iml
+
 .DS_Store
 
-/settings
-/target/
+target/
