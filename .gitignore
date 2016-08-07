@@ -11,3 +11,4 @@ ironman.iml
 .DS_Store
 
 target/
+bin/
