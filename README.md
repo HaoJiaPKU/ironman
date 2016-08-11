@@ -1,8 +1,7 @@
 # ironman
 	Maven Project
 	Dynamic Web Project
-	author: Lan Zheng (兰铮)
-	© SEKE PKU (北京大学)
+	Lan Zheng (兰铮) © SEKE PKU (北京大学)
 
 ### Server
 	apache-tomcat-7.0.63
