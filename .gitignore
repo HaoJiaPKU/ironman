@@ -1,12 +1,11 @@
 *.class
 *.jar
+*.iml
 
 .classpath
 .project
 .settings/
-
 .idea/
-ironman.iml
 
 .DS_Store
 
